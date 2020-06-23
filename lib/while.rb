@@ -7,7 +7,7 @@ def using_while
   end
 end
   
-puts "You have a levitation force of #{levitation_force}"
+# puts "You have a levitation force of #{levitation_force}"
 
 puts using_while
 
